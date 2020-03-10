@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println(encapsulation.getA());
 
-
+//hjhjhjhjhj
 
 
 /*/        Cat cat = new Cat("Персик", 10, true);
