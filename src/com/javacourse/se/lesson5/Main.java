@@ -12,12 +12,9 @@ import com.javacourse.se.lesson19.Encapsulation;
 public class Main {
 
     public static void main(String[] args) {
-        Encapsulation encapsulation = new Encapsulation();
-        encapsulation.setA(5);
 
-        System.out.println(encapsulation.getA());
+       // System.out.println(encapsulation.getA());
 
-//hjhjhjhjhj
 
 
 /*/        Cat cat = new Cat("Персик", 10, true);
